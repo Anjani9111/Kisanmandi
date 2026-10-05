@@ -1,0 +1,6 @@
+{
+  "name": "किसान भाव साथी - Kisan Mandi Bhav",
+  "description": "आज का सही भाव, किसान के हाथ में। अपने खेत की फसल का आज का लाइव मंडी भाव देखें, 2 साल का भाव इतिहास जांचें और फसल कमाई का हिसाब लगाएं।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
